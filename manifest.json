@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Blog Generator Extension",
+  "version": "1.0",
+  "background": {
+      "service_worker": "background.js"
+  },
+  "permissions": [
+      "storage",
+      "activeTab",
+      "scripting"
+  ],
+  "host_permissions": [
+      "https://isyr2t6ro7.execute-api.us-east-1.amazonaws.com/*"
+  ],
+  "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+  },
+  "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}

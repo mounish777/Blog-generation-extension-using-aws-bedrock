@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog Generator</title>
+    <style>
+        body {
+            width: 300px;
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+        #output {
+            margin-top: 10px;
+            white-space: pre-wrap; /* Preserve whitespace and line breaks */
+            border: 1px solid #ddd; /* Add a border for visibility */
+            padding: 10px; /* Add padding for readability */
+            background: #f9f9f9; /* Light background for the output */
+        }
+    </style>
+</head>
+<body>
+    <h1>Blog Generator</h1>
+    <input type="text" id="blogTopic" placeholder="Enter blog topic" />
+    <button id="generateButton">Generate Blog</button>
+    <div id="output"></div> <!-- Section to display the generated blog -->
+    <script src="popup.js"></script>
+</body>
+</html>
