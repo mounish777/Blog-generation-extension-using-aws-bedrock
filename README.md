@@ -112,4 +112,4 @@
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2 id="contact">Contact</h2>
-<p>If you have any questions or need further assistance, feel free to contact me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+<p>If you have any questions or need further assistance, feel free to contact me at <a href="mailto:your.email@example.com">mounish.bachalakuri7@gmail.com</a>.</p>
