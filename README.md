@@ -61,7 +61,7 @@
 <h3>Steps</h3>
 <ol>
   <li><strong>Clone the Repository:</strong></li>
-  <pre><code>git clone https://github.com/yourusername/your-repo-name.git</code></pre>
+  <pre><code>git clone https://github.com/mounish777/Blog-generation-extension-using-aws-bedrock/tree/main</code></pre>
   
   <li><strong>Navigate to the Project Directory:</strong></li>
   <pre><code>cd your-repo-name</code></pre>
